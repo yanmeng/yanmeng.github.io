@@ -6,16 +6,4 @@
   remark: 通讯作者
   pdf: papers/rjxb18Qiuyuan.pdf
 
-- title: "能效：软件应用开发人员需要考虑的新问题"
-  authors: <b>鄢萌</b>, 夏鑫, 杨小虎, 李睿 
-  venue: 中国计算机学会通讯 (CCCF)
-  year: 2018.2
-  status: 已发表
-
-- title: "基于采样的半监督支持向量机软件缺陷预测方法"
-  authors: 廖胜平, 徐玲, <b>鄢萌</b> 
-  venue: 计算机工程与应用
-  year: 2016
-  status: 已发表
-
 
