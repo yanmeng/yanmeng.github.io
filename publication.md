@@ -13,7 +13,7 @@ permalink: /publication/
     {% assign idx = forloop.index %}
     {% assign idx = len | minus: forloop.index %}
     <div class="item">
-        <span class="project-tagline">[{{idx}}] {{ journal.authors }}. "{{ journal.title }}" <em>{{ journal.venue }}</em>, {{ journal.year }}</span>
+        <span class="project-tagline">[{{idx}}] {{ journal.authors }}. "{{ journal.title }}". <em>{{ journal.venue }}</em>, {{ journal.year }}</span>
         {% if journal.remark%}
             (<span class="project-tagline"><b>{{ journal.remark }}</b></span>)
         {% endif %}
@@ -32,7 +32,7 @@ permalink: /publication/
     {% assign idx = forloop.index %}
     {% assign idx = len | minus: forloop.index %}
     <div class="item">
-            <span class="project-tagline">[{{idx}}] {{ paper.authors }}. "{{ paper.title }}" <em>{{ paper.venue }}</em>, {{ paper.year }}</span>
+            <span class="project-tagline">[{{idx}}] {{ paper.authors }}. "{{ paper.title }}". <em>{{ paper.venue }}</em>, {{ paper.year }}</span>
             {% if paper.remark%}
                 (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
             {% endif %}
@@ -50,12 +50,12 @@ permalink: /publication/
     {% assign idx = forloop.index %}
     {% assign idx = len | minus: forloop.index %}
     <div class="item">
-        <span class="project-tagline">[{{idx}}] {{ chinese.authors }}. "{{ chinese.title }}" <em>{{ chinese.venue }}</em>, {{ chinese.year }}</span>
+        <span class="project-tagline">[{{idx}}] {{ chinese.authors }}. "{{ chinese.title }}". <em>{{ chinese.venue }}</em>, {{ chinese.year }}</span>
         {% if chinese.remark%}
             (<span class="project-tagline"><b>{{ chinese.remark }}</b></span>)
         {% endif %}
         {% if chinese.pdf%}
-            <span class="pull-right"> < a href="{{ site.url }}/{{ chinese.pdf }}"><b>[PDF]</b></ a></span>
+            <span class="pull-right"> <a href="{{ site.url }}/{{ chinese.pdf }}"><b>[PDF]</b></a></span>
         {% endif %}
     </div>
     {% endfor %}
