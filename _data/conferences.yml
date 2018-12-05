@@ -1,82 +1,74 @@
 - title: "Cost-Sensitive Software Defect Prediction"
   authors: Ling Xu, Bei Wang, Ling Liu, Mo Zhou, Shenping Liao, <b>Meng Yan</b>
-  venue: IEEE 19th International Conference on Information Reuse and Integration for Data Science (IRI)
+  venue: IEEE 19th International Conference on Information Reuse and Integration for Data Science (IRI), Full paper
   year: 2018
-  status: Accepted as a Full paper
+  status: Accepted
   remark: Best Paper Runner up
 
 - title: "Cross-Project Change-Proneness Prediction"
   authors: Chao Liu, Dan Yang, Xin Xia, <b>Meng Yan</b>, Xiaohong Zhang
-  venue: The 42nd IEEE International Conference on Computers, Software and Applications (COMPSAC)
+  venue: The 42nd IEEE International Conference on Computers, Software and Applications (COMPSAC), Full paper
   year: 2018
-  status: Accepted as a Full paper
+  status: Accepted
   pdf: papers/COMPSAC18Chao.pdf
 
 - title: "File-Level Defect Prediction: Unsupervised vs. Supervised Models"
   authors: <b>Meng Yan</b>, Yicheng Fang, David Lo, Xin Xia, Xiaohong Zhang
-  venue: 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)
+  venue: 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Full paper
   year: 2017
-  status: Accepted as a Full paper
+  status: Accepted
   pdf: papers/ESEM17Meng.pdf
 
 
 - title: "Automating Aggregation for Software Quality Modeling"
   authors: <b>Meng Yan</b>, Xin Xia, Xiaohong Zhang, Dan Yang, Ling Xu
-  venue: 33nd International Conference on Software Maintenance and Evolution (ICSME)
+  venue: 33nd International Conference on Software Maintenance and Evolution (ICSME), NIER paper
   year: 2017
-  status: Accepted as a NIER paper
+  status: Accepted
   pdf: papers/ICSME17Meng.pdf
 
 
 - title: "A Systematic Mapping Study of Quality Assessment Models for Software Products"
   authors: <b>Meng Yan</b>, Xin Xia, Xiaohong Zhang, Ling Xu, Dan Yang
-  venue: The Annual Conference on Software Analysis, Testing and Evolution (SATE)
+  venue: The Annual Conference on Software Analysis, Testing and Evolution (SATE), Full paper
   year: 2017
-  status: Accepted as a Full paper
+  status: Accepted
   pdf: papers/SATE17Meng.pdf
   remark: (Invited to SCIENCE CHINA Information Sciences Journal)
 
 
-- title: "File-Level Defect Prediction: Unsupervised vs. Supervised Models"
-  authors: <b>Meng Yan</b>, Yicheng Fang, David Lo, Xin Xia, Xiaohong Zhang
-  venue: 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)
-  year: 2017
-  status: Accepted as a Full paper
-  pdf: papers/ESEM17Meng.pdf
-
-
 - title: "Learning to Aggregate: An Automated Aggregation Method for Software Quality Model"
   authors: <b>Meng Yan</b>, Xiaohong Zhang, Chao Liu, Jie Zou, Ling Xu, Xin Xia
-  venue: 39th International Conference on Software Engineering (ICSE)
+  venue: 39th International Conference on Software Engineering (ICSE), Poster Track
   year: 2017
-  status: Accepted as a Poster 
+  status: Accepted
   pdf: papers/ICSE17-PosterMeng.pdf
 
   - title: "Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF"
   authors: <b>Meng Yan</b>, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, Xin Xia
-  venue: The 41st IEEE International Conference on Computers, Software and Applications (COMPSAC)
+  venue: The 41st IEEE International Conference on Computers, Software and Applications (COMPSAC), Short paper
   year: 2017
-  status: Accepted as a Short paper 
+  status: Accepted
   pdf: papers/COMPASC17Meng.pdf
 
   - title: "Self-learning Change-prone Class Prediction"
   authors: <b>Meng Yan</b>, Mengning Yang, Chao Liu, Xiaohong Zhang
-  venue: 28th International Conference on Software Engineering & Knowledge Engineering (SEKE)
+  venue: 28th International Conference on Software Engineering & Knowledge Engineering (SEKE), Full paper
   year: 2016
-  status: Accepted as a Full paper  
+  status: Accepted
   pdf: papers/SEKE16Meng.pdf
 
   - title: "Duplication Detection for Software Bug Reports based on Topic Model"
   authors: Jie Zou, Ling Xu, Mengning Yang, <b>Meng Yan</b>, Dan Yang, Xiaohong Zhang
-  venue: 9th International Conference on Services Science (ICSS)
+  venue: 9th International Conference on Services Science (ICSS), Full paper
   year: 2016
   status: Accepted as a Poster 
   pdf: papers/ICSS16Jie.pdf
 
   - title: "Which Non-functional Requirements Do Developers Focus On? An Empirical Study on Stack Overflow Using Topic Analysis"
   authors: Jie Zou, Ling Xu, Weikang Guo, <b>Meng Yan</b>, Dan Yang
-  venue: 12th Working Conference on Mining Software Repositories (MSR)
+  venue: 12th Working Conference on Mining Software Repositories (MSR), Mining Challenge Track
   year: 2015
-  status: Accepted as a Challange Paper 
+  status: Accepted 
   pdf: papers/MSR15Jie.pdf
 
