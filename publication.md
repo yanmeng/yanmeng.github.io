@@ -41,5 +41,23 @@ permalink: /publication/
             {% endif %}
     </div>
     {% endfor %}
+
+    <div class="intro">
+        <p class="section-title">Papers in Chinese</p>
+    </div><!--//intro-->
+    {% assign len = site.data.chineses | size | plus : 1  %} 
+    {% for chinese in site.data.chineses %}
+    {% assign idx = forloop.index %}
+    {% assign idx = len | minus: forloop.index %}
+    <div class="item">
+        <span class="project-tagline">[{{idx}}] {{ chinese.authors }}. "{{ chinese.title }}" <em>{{ chinese.venue }}</em>, {{ chinese.year }}</span>
+        {% if chinese.remark%}
+            (<span class="project-tagline"><b>{{ chinese.remark }}</b></span>)
+        {% endif %}
+        {% if chinese.pdf%}
+            <span class="pull-right"> < a href="{{ site.url }}/{{ chinese.pdf }}"><b>[PDF]</b></ a></span>
+        {% endif %}
+    </div>
+    {% endfor %}
    
 </section><!--//section-->
