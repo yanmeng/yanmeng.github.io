@@ -7,21 +7,21 @@
 
 - title: "Cross-Project Change-Proneness Prediction"
   authors: Chao Liu, Dan Yang, Xin Xia, <b>Meng Yan</b>, Xiaohong Zhang
-  venue: The 42nd IEEE International Conference on Computers, Software and Applications (COMPSAC), Full paper
+  venue: The 42nd IEEE International Conference on Computers, Software and Applications (COMPSAC), Full paper, CCF C
   year: 2018
   status: Accepted
   pdf: papers/COMPSAC18Chao.pdf
 
 - title: "File-Level Defect Prediction: Unsupervised vs. Supervised Models"
   authors: <b>Meng Yan</b>, Yicheng Fang, David Lo, Xin Xia, Xiaohong Zhang
-  venue: 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Full paper
+  venue: 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Full paper, CCF B
   year: 2017
   status: Accepted
   pdf: papers/ESEM17Meng.pdf
 
 - title: "Automating Aggregation for Software Quality Modeling"
   authors: <b>Meng Yan</b>, Xin Xia, Xiaohong Zhang, Dan Yang, Ling Xu
-  venue: 33nd International Conference on Software Maintenance and Evolution (ICSME), NIER paper
+  venue: 33nd International Conference on Software Maintenance and Evolution (ICSME), NIER paper, CCF B
   year: 2017
   status: Accepted
   pdf: papers/ICSME17Meng.pdf
@@ -36,21 +36,21 @@
 
 - title: "Learning to Aggregate: An Automated Aggregation Method for Software Quality Model"
   authors: <b>Meng Yan</b>, Xiaohong Zhang, Chao Liu, Jie Zou, Ling Xu, Xin Xia
-  venue: 39th International Conference on Software Engineering (ICSE), Poster Track
+  venue: 39th International Conference on Software Engineering (ICSE), Poster Track, CCF A
   year: 2017
   status: Accepted
   pdf: papers/ICSE17-PosterMeng.pdf
 
 - title: "Revisiting the Correlation between Alerts and Software Defects-A Case Study on MyFaces, Camel, and CXF"
   authors: <b>Meng Yan</b>, Xiaohong Zhang, Ling Xu, Haibo Hu, Song Sun, Xin Xia
-  venue: The 41st IEEE International Conference on Computers, Software and Applications (COMPSAC), Short paper
+  venue: The 41st IEEE International Conference on Computers, Software and Applications (COMPSAC), Short paper, CCF C
   year: 2017
   status: Accepted
   pdf: papers/COMPSAC17Meng.pdf
 
 - title: "Self-learning Change-prone Class Prediction"
   authors: <b>Meng Yan</b>, Mengning Yang, Chao Liu, Xiaohong Zhang
-  venue: 28th International Conference on Software Engineering & Knowledge Engineering (SEKE), Full paper
+  venue: 28th International Conference on Software Engineering & Knowledge Engineering (SEKE), Full paper, CCF C
   year: 2016
   status: Accepted
   pdf: papers/SEKE16Meng.pdf
@@ -64,7 +64,7 @@
 
 - title: "Which Non-functional Requirements Do Developers Focus On? An Empirical Study on Stack Overflow Using Topic Analysis"
   authors: Jie Zou, Ling Xu, Weikang Guo, <b>Meng Yan</b>, Dan Yang
-  venue: 12th Working Conference on Mining Software Repositories (MSR), Mining Challenge Track
+  venue: 12th Working Conference on Mining Software Repositories (MSR), Mining Challenge Track, CCF C
   year: 2015
   status: Accepted 
   pdf: papers/MSR15Jie.pdf

@@ -1,13 +1,13 @@
 - title: "A Two-Phase Transfer Learning Model for Cross-Project Defect Prediction"
   authors: Chao Liu, Dan Yang, Xin Xia, <b>Meng Yan</b>, Xiaohong Zhang
-  venue:  Information and Software Technology (IST)
+  venue:  Information and Software Technology (IST), CCF B
   year: 2018
   pdf: papers/IST18Chao.pdf
   status: Accepted
 
 - title: "Automating Change-level Self-admitted Technical Debt Determination"
   authors: <b>Meng Yan</b>, Xin Xia, Emad Shihab, David Lo, Jianwei Yin, Xiaohu Yang
-  venue: IEEE Transactions on Software Engineering (TSE)
+  venue: IEEE Transactions on Software Engineering (TSE), CCF A
   year: 2018
   pdf: papers/TSE-SATD-preprint.pdf
   status: Accepted
@@ -15,35 +15,35 @@
 
 - title: "Software Quality Assessment Model: A Systematic Mapping Study"
   authors: <b>Meng Yan</b>, Xin Xia, Xiaohong Zhang, Ling Xu, Dan Yang, Shanping Li
-  venue:  SCIENCE CHINA Information Sciences (SCIS)
+  venue:  SCIENCE CHINA Information Sciences (SCIS), CCF B 
   year: 2018
   pdf: papers/SCIS18Meng.pdf
   status: Accepted
  
 - title: "Automated change-prone class prediction on unlabeled dataset using unsupervised method"
   authors: <b>Meng Yan</b>, Xiaohong Zhang, Chao Liu, Ling Xu, Mengning Yang, Dan Yang
-  venue:  Information and Software Technology (IST)
+  venue:  Information and Software Technology (IST), CCF B
   year: 2017
   pdf: papers/IST17Meng.pdf
   status: Accepted
  
 - title: "A component recommender for bug reports using Discriminative Probability Latent Semantic Analysis"
   authors: <b>Meng Yan</b>, Xiaohong Zhang, Dan Yang, Ling Xu, Jeffrey D. Kymer
-  venue:  Information and Software Technology (IST)
+  venue:  Information and Software Technology (IST), CCF B
   year: 2016
   pdf: papers/IST16Meng.pdf
   status: Accepted
  
 - title: "Automatically Classifying Software Changes via Discriminative Topic Model:Supporting Multi-category and Cross-project"
   authors: <b>Meng Yan</b>, Ying Fu, Xiaohong Zhang, Dan Yang, Ling Xu, Jeffrey D. Kymer
-  venue:  Journal of Systems and Software (JSS)
+  venue:  Journal of Systems and Software (JSS), CCF B
   year: 2016
   pdf: papers/JSS16Meng.pdf
   status: Accepted
 
 - title: "Automated Classification of Software Change Messages by Semi-supervised Latent Dirichlet Allocation"
   authors: Ying Fu, <b>Meng Yan</b>, Xiaohong Zhang, Ling Xu, Dan Yang
-  venue:  Information and Software Technology (IST)
+  venue:  Information and Software Technology (IST), CCF B
   year: 2015
   pdf: papers/IST15Ying.pdf
   status: Accepted
