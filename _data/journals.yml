@@ -1,3 +1,10 @@
+- title: "Characterizing and Identifying Reverted Commits"
+  authors: <b>Meng Yan</b>, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li
+  venue:  Empirical Software Engineering (EMSE, CCF-B) 
+  year: 2019
+  pdf: papers/EMSE19Meng.pdf
+  status: Accepted
+
 - title: "A Two-Phase Transfer Learning Model for Cross-Project Defect Prediction"
   authors: Chao Liu, Dan Yang, Xin Xia, <b>Meng Yan</b>, Xiaohong Zhang
   venue:  Information and Software Technology (IST, CCF-B) 
