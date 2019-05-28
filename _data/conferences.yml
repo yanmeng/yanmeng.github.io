@@ -1,9 +1,16 @@
+- title: "TagDeepRec: Tag Recommendation for Software Information Sites Using Attention-Based Bi-LSTM"
+  authors: Can Li, Ling Xu, <b>Meng Yan</b>, Jianjun He and Zuli Zhang
+  venue: The 12th International Conference on Knowledge Science, Engineering and Management (KSEM, CCF-C), Full paper
+  year: 2019
+  status: Accepted
+
 - title: "Misclassification Cost-Sensitive Software Defect Prediction"
   authors: Ling Xu, Bei Wang, Ling Liu, Mo Zhou, Shenping Liao, <b>Meng Yan</b>
-  venue: 19th IEEE International Conference on Information Reuse and Integration for Data Science (IRI), Full paper
+  venue: The 19th IEEE International Conference on Information Reuse and Integration for Data Science (IRI), Full paper
   year: 2018
   status: Accepted
   remark: Best Paper Runner up
+  pdf: papers/IRI18Ling.pdf
 
 - title: "Cross-Project Change-Proneness Prediction"
   authors: Chao Liu, Dan Yang, Xin Xia, <b>Meng Yan</b>, Xiaohong Zhang
