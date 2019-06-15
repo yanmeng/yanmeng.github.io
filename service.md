@@ -7,6 +7,7 @@ permalink: /service/
 ## 2019
 
 <ol>
+<li>Program Commitee -- 18th National Software Application Conference (NASAC 2019 Big Data-Driven Intelligent Software Development for Onsite Programming)</li>
 <li>Program Commitee -- 18th National Software Application Conference (NASAC 2019 Intelligent Software Engineering Track)</li>
 <li>Organization Commitee -- 18th National Software Application Conference (NASAC 2019)</li>
 <li>Registration Co-Chair -- 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2019) </li>
