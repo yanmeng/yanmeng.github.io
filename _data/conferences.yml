@@ -1,3 +1,9 @@
+- title: "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks"
+  authors: Jianjun He, Ling Xu, <b>Meng Yan</b>, Bei Wang and Xin Xia
+  venue: The Annual Conference on Software Analysis, Testing and Evolution (SATE 2019), Full paper
+  year: 2019
+  status: Accepted
+
 - title: "TagDeepRec: Tag Recommendation for Software Information Sites Using Attention-Based Bi-LSTM"
   authors: Can Li, Ling Xu, <b>Meng Yan</b>, Jianjun He and Zuli Zhang
   venue: The 12th International Conference on Knowledge Science, Engineering and Management (KSEM, CCF-C), Full paper
