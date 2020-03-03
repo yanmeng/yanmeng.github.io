@@ -1,3 +1,10 @@
+- title: "Just-In-Time Defect Identification and Localization: A Two-Phase Framework"
+  authors: <b>Meng Yan</b>, Xin Xia, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li
+  venue:  IEEE Transactions on Software Engineering (TSE, JCR Q1, CCF-A)
+  year: 2020
+  pdf: papers/TSE20Meng.pdf
+  status: Accepted
+
 - title: "Characterizing and Identifying Reverted Commits"
   authors: <b>Meng Yan</b>, Xin Xia, David Lo, Ahmed E. Hassan, Shanping Li
   venue:  Empirical Software Engineering (EMSE, JCR Q1, CCF-B, IF:4.457) 
