@@ -3,12 +3,14 @@
   venue: The 28th International Conference on Program Comprehension (ICPC, CCF-B), Full paper
   year: 2020
   status: Accepted
+  pdf: papers/ICPC20Jianjun.pdf
 
 - title: "Improving Code Search with Co-Attentive Representation Learning"
   authors: Jianhang Shuai, Ling Xu, Chao Liu, <b>Meng Yan</b>, Xin Xia, Yan Lei
   venue: The 28th International Conference on Program Comprehension (ICPC, CCF-B), Full paper
   year: 2020
   status: Accepted
+  pdf: papers/ICPC20Jianhang.pdf
 
 - title: "TagDeepRec: Tag Recommendation for Software Information Sites Using Attention-Based Bi-LSTM"
   authors: Can Li, Ling Xu, <b>Meng Yan</b>, Jianjun He and Zuli Zhang
