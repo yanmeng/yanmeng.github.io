@@ -1,3 +1,9 @@
+- title: "Multi-Dimension Convolutional Neural Network for Bug Localization"
+  authors: Bei Wang, Ling Xu, <b>Meng Yan</b>, Chao Liu, Ling Liu
+  venue:  IEEE Transactions on Services Computing (TSC, JCR Q1, CCF-B)
+  year: 2020
+  status: Accepted
+
 - title: "Just-In-Time Defect Identification and Localization: A Two-Phase Framework"
   authors: <b>Meng Yan</b>, Xin Xia, Yuanrui Fan, Ahmed E. Hassan, David Lo, Shanping Li
   venue:  IEEE Transactions on Software Engineering (TSE, JCR Q1, CCF-A)
