@@ -1,3 +1,9 @@
+- title: "Imbalanced Metric Learning for Crashing Fault Residence Prediction"
+  authors:  Zhou Xu, Kunsong Zhao, <b>Meng Yan*</b>, Peipei Yuan, Ling Xu, Yan Lei, Xiaohong Zhang
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2020
+  status: Accepted
+
 - title: "Multi-Dimension Convolutional Neural Network for Bug Localization"
   authors: Bei Wang, Ling Xu, <b>Meng Yan</b>, Chao Liu, Ling Liu
   venue:  IEEE Transactions on Services Computing (TSC, JCR Q1, CCF-B)
