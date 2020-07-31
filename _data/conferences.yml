@@ -1,3 +1,9 @@
+- title: "Automating Just-In-Time Comment Updating"
+  authors: Zhongxin Liu, Xin Xia, <b>Meng Yan</b>, Shanping Li
+  venue: The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
+  year: 2020
+  status: Accepted
+
 - title: "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks"
   authors: Jianjun He, Ling Xu, <b>Meng Yan</b>, Xin Xia, Yan Lei
   venue: The 28th International Conference on Program Comprehension (ICPC, CCF-B), Full paper
