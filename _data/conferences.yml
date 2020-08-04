@@ -1,3 +1,10 @@
+
+- title: "Improving Log-Based Anomaly Detection with Component-Aware Analysis"
+  authors: Kun Yin, <b>Meng Yan</b>, Ling Xu, Zhou Xu, Zhao Li, Dan Yang, Xiaohong Zhang
+  venue: The 36th International Conference on Software Maintenance and Evolution (ICSME, CCF-B), NIER paper
+  year: 2020
+  status: Accepted
+  
 - title: "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks"
   authors: Jianjun He, Ling Xu, <b>Meng Yan</b>, Xin Xia, Yan Lei
   venue: The 28th International Conference on Program Comprehension (ICPC, CCF-B), Full paper
