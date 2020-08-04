@@ -1,3 +1,9 @@
+- title: "Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba"
+  authors: <b>Meng Yan</b>, Xin Xia, Yuanrui Fan, David Lo, Ahmed E. Hassan, Xindong Zhang
+  venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Accepted as an Industry Full paper.
+  year: 2020
+  status: Accepted
+
 - title: "Automating Just-In-Time Comment Updating"
   authors: Zhongxin Liu, Xin Xia, <b>Meng Yan</b>, Shanping Li
   venue: The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
