@@ -1,3 +1,15 @@
+- title: "JITO: A Tool for Just-In-Time Defect Identification and Localization"
+  authors: Fangcheng Qiu, <b>Meng Yan</b>, Xin Xia, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo
+  venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
+  year: 2020
+  status: Accepted
+
+- title: "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information"
+  authors: Boao Li, <b>Meng Yan</b>, Xin Xia, Xing Hu, Ge Li, David Lo
+  venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
+  year: 2020
+  status: Accepted
+
 - title: "Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba"
   authors: <b>Meng Yan</b>, Xin Xia, Yuanrui Fan, David Lo, Ahmed E. Hassan, Xindong Zhang
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Industry Full paper
