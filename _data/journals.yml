@@ -1,3 +1,15 @@
+- title: "TagDC: A Tag Recommendation Method for Software Information Sites with a Combination of Deep Learning and Collaborative Filtering"
+  authors: Can Li, Ling Xu, <b>Meng Yan</b>, Yan Lei
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2020
+  status: Accepted
+
+- title: "Improving Deep-Learning-based Fault Localization with Resampling"
+  authors: Zhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Ling Xu, Junhao Wen
+  venue:  Journal of Software:Evolution and Process (JSEP, CCF-B)
+  year: 2020
+  status: Accepted
+
 - title: "Imbalanced Metric Learning for Crashing Fault Residence Prediction"
   authors:  Zhou Xu, Kunsong Zhao, <b>Meng Yan*</b>, Peipei Yuan, Ling Xu, Yan Lei, Xiaohong Zhang
   venue:  Journal of Systems and Software (JSS, CCF-B)
