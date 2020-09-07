@@ -3,36 +3,43 @@
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
   year: 2020
   status: Accepted
+  pdf: papers/FSE-TOOL-Qiu.pdf
 
 - title: "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information"
   authors: Boao Li, <b>Meng Yan</b>, Xin Xia, Xing Hu, Ge Li, David Lo
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
   year: 2020
   status: Accepted
+  pdf: papers/FSE-TOOL-Boao.pdf
 
 - title: "Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba"
   authors: <b>Meng Yan</b>, Xin Xia, Yuanrui Fan, David Lo, Ahmed E. Hassan, Xindong Zhang
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Industry Full paper
   year: 2020
   status: Accepted
+  pdf: papers/FSE20Meng.pdf
 
 - title: "Automating Just-In-Time Comment Updating"
   authors: Zhongxin Liu, Xin Xia, <b>Meng Yan</b>, Shanping Li
   venue: The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
   year: 2020 <b>(ACM SIGSOFT Distinguished Paper Award)</b>
   status: Accepted
+  pdf: papers/ASE20.pdf
+
 
 - title: "Deep Learning Based Valid Bug Reports Determination and Explanation"
   authors: Jianjun He, Ling Xu, Yuanrui Fan, Zhou Xu, <b>Meng Yan</b>, Yan Lei
   venue: The 31st International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
   year: 2020
   status: Accepted
+  pdf: papers/ISSRE20.pdf
 
 - title: "Improving Log-Based Anomaly Detection with Component-Aware Analysis"
   authors: Kun Yin, <b>Meng Yan</b>, Ling Xu, Zhou Xu, Zhao Li, Dan Yang, Xiaohong Zhang
   venue: The 36th International Conference on Software Maintenance and Evolution (ICSME, CCF-B), NIER paper
   year: 2020
   status: Accepted
+  pdf: papers/ICSME20.pdf
 
 - title: "Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks"
   authors: Jianjun He, Ling Xu, <b>Meng Yan</b>, Xin Xia, Yan Lei
