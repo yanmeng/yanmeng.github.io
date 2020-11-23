@@ -1,6 +1,22 @@
+
+  - title: "A Study of Effectiveness of Deep Learning in Locating Real Faults"
+  authors: Zhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Ling Xu, Xiaohong Zhang.
+  venue:  Information and Software Technology (IST, CCF-B)
+  year: 2020
+  pdf: papers/IST202.pdf
+  status: Accepted
+
+  - title: "A Comprehensive Comparative Study of Clustering-based Unsupervised Defect Prediction Models"
+  authors: Zhou Xu, Li Li, <b>Meng Yan</b>, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang.
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2020
+  pdf: papers/JSS203.pdf
+  status: Accepted
+
 - title: "Feature Selection and Embedding Based Cross Project Framework for Identifying Crashing Fault Residence"
   authors: Zhou Xu, Tao Zhang, Jacky Keung, <b>Meng Yan</b>, Xiapu Luo , Xiaohong Zhang, Ling Xu, Yutian Tang
   venue:  Information and Software Technology (IST, CCF-B)
+  pdf: papers/IST201.pdf
   year: 2020
   status: Accepted
 
@@ -19,7 +35,7 @@
   status: Accepted
 
 - title: "Imbalanced Metric Learning for Crashing Fault Residence Prediction"
-  authors:  Zhou Xu, Kunsong Zhao, <b>Meng Yan*</b>, Peipei Yuan, Ling Xu, Yan Lei, Xiaohong Zhang
+  authors:  Zhou Xu, Kunsong Zhao, <b>Meng Yan</b>, Peipei Yuan, Ling Xu, Yan Lei, Xiaohong Zhang
   venue:  Journal of Systems and Software (JSS, CCF-B)
   pdf: papers/JSS201.pdf
   year: 2020
