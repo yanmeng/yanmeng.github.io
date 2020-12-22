@@ -1,3 +1,31 @@
+- title: "Quality Assurance for Automated Commit Message Generation"
+  authors:  Bei Wang, <b>Meng Yan</b>, Zhongxin Liu, Ling Xu, Xin Xia, Xiaohong Zhang, Dan Yang
+  venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/SANER214.pdf
+
+- title: "Two-Stage Attention-Based Model for Code Search with Textual and Structural Features"
+  authors:  Ling Xu, Huanhuan Yang, Chao Liu, Jianhang Shuai, <b>Meng Yan</b>, Yan Lei, Zhou Xu
+  venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/SANER213.pdf
+
+- title: "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network"
+  authors:  Zeyu Wang, Sheng Huang, Zhongxin Liu, <b>Meng Yan</b>, Xin Xia, Bei Wang, Dan Yang
+  venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/SANER212.pdf
+
+- title: "Is the Ground Truth Really Accurate? Dataset Purification for Automated Program Repair"
+  authors: Deheng Yang, Yan Lei, Xiaoguang Mao, David Lo, Huan Xie, <b>Meng Yan</b>
+  venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/SANER211.pdf
+
 - title: "JITO: A Tool for Just-In-Time Defect Identification and Localization"
   authors: Fangcheng Qiu, <b>Meng Yan</b>, Xin Xia, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
