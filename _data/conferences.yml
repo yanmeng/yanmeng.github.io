@@ -26,6 +26,13 @@
   status: Accepted
   pdf: papers/SANER211.pdf
 
+- title: "Just-in-Time Defect Prediction for Android Apps via Imbalanced Deep Learning Model"
+  authors: Kunsong Zhao, Zhou Xu, <b>Meng Yan</b>, Yutian Tang, Ming Fan, and Gemma Catolino.
+  venue:  The 36th ACM/SIGAPP Symposium On Applied Computing (SAC, CORE-B) Full paper
+  year: 2020
+  status: Accepted
+  pdf: papers/SAC201.pdf
+
 - title: "JITO: A Tool for Just-In-Time Defect Identification and Localization"
   authors: Fangcheng Qiu, <b>Meng Yan</b>, Xin Xia, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
