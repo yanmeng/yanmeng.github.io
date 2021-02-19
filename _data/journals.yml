@@ -1,26 +1,26 @@
 - title: "The Impact of Duplicate Changes on Just-in-Time Defect Prediction"
-  authors: Ruifeng Duan, Haitao Xu, Yuanrui Fan, <b>Meng Yan</b>.
+  authors: Ruifeng Duan, Haitao Xu, Yuanrui Fan, <b>Meng Yan</b>
   venue:  IEEE Transactions on Reliability (TR, JCR Q1)
   year: 2021
   pdf: papers/TR212.pdf
   status: Accepted
 
 - title: "Simplified Deep Forest Model based Just-in-Time Defect Prediction for Android Mobile Apps"
-  authors: Kunsong Zhao, Zhou Xu, Tao Zhang, Yutian Tang, <b>Meng Yan</b>.
+  authors: Kunsong Zhao, Zhou Xu, Tao Zhang, Yutian Tang, <b>Meng Yan</b>
   venue:  IEEE Transactions on Reliability (TR, JCR Q1)
   year: 2021
   pdf: papers/TR211.pdf
   status: Accepted
 
 - title: "A Study of Effectiveness of Deep Learning in Locating Real Faults"
-  authors: Zhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Ling Xu, Xiaohong Zhang.
+  authors: Zhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Ling Xu, Xiaohong Zhang
   venue:  Information and Software Technology (IST, CCF-B)
   year: 2020
   pdf: papers/IST202.pdf
   status: Accepted
 
 - title: "A Comprehensive Comparative Study of Clustering-based Unsupervised Defect Prediction Models"
-  authors: Zhou Xu, Li Li, <b>Meng Yan</b>, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang.
+  authors: Zhou Xu, Li Li, <b>Meng Yan</b>, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang
   venue:  Journal of Systems and Software (JSS, CCF-B)
   year: 2020
   pdf: papers/JSS203.pdf
