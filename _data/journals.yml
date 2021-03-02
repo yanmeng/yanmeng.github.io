@@ -1,3 +1,10 @@
+- title: "Effort-Aware Just-in-Time Bug Prediction for Mobile Apps via Cross-triplet Deep Feature Embedding"
+  authors: Zhou Xu, Kunsong Zhao, Tao Zhang, Chunlei Fu, <b>Meng Yan</b>, Zhiwen Xie, Xiaohong Zhang, Gemma Catolino
+  venue:  IEEE Transactions on Reliability (TR, JCR Q1)
+  year: 2021
+  pdf: papers/TR213.pdf
+  status: Accepted
+
 - title: "The Impact of Duplicate Changes on Just-in-Time Defect Prediction"
   authors: Ruifeng Duan, Haitao Xu, Yuanrui Fan, <b>Meng Yan</b>
   venue:  IEEE Transactions on Reliability (TR, JCR Q1)
