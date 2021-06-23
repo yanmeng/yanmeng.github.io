@@ -1,3 +1,10 @@
+- title: "Predicting Crash Fault Residence via Simplified Deep Forest Based on A Reduced Feature Set"
+  authors: Kunsong Zhao, Jin Liu, Zhou Xu, Li Li, <b>Meng Yan</b>, Jiaojiao Yu, Yuxuan Zhou
+  venue: The 29th IEEE International Conference on Program Comprehension (ICPC, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/ICPC211.pdf
+
 - title: "Quality Assurance for Automated Commit Message Generation"
   authors:  Bei Wang, <b>Meng Yan</b>, Zhongxin Liu, Ling Xu, Xin Xia, Xiaohong Zhang, Dan Yang
   venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
