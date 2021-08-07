@@ -1,6 +1,14 @@
+
+- title: "A Compositional Model for Effort-Aware Just-In-Time Defect Prediction on Android Apps"
+  authors:  Kunsong Zhao, Zhou Xu, <b>Meng Yan</b>, Lei Xue, Wei Li, Gemma Catolino.
+  venue:  IET Software (CCF-B)
+  year: 2021
+  pdf: papers/IET211.pdf
+  status: Accepted
+
 - title: "A Comprehensive Investigation of the Impact of Feature Selection Techniques on Crashing Fault Residence Prediction Models"
   authors: Kunsong Zhao, Zhou Xu, <b>Meng Yan</b>, Tao Zhang, Dan Yang, Wei Li
-  venue:  Information and Software Technology (IST)
+  venue:  Information and Software Technology (IST, CCF-B)
   year: 2021
   pdf: papers/IST211.pdf
   status: Accepted

@@ -1,3 +1,18 @@
+
+- title: "Improving Code Summarization Through Automated Quality Assurance"
+  authors: Yuxing Hu, <b>Meng Yan</b>, Zhongxin Liu, Qiuyuan Chen, Bei Wang
+  venue: The 32nd International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/ISSRE212.pdf
+
+- title: "Contextual-Semantic-Aware Linkable Knowledge Prediction in Stack Overflow via Self-Attention"
+  authors: Zhaolin Luo, Ling Xu, Zhou Xu, <b>Meng Yan</b>, Yan Lei, Can Li. 
+  venue: The 32nd International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/ISSRE211.pdf
+
 - title: "Predicting Crash Fault Residence via Simplified Deep Forest Based on A Reduced Feature Set"
   authors: Kunsong Zhao, Jin Liu, Zhou Xu, Li Li, <b>Meng Yan</b>, Jiaojiao Yu, Yuxuan Zhou
   venue: The 29th IEEE International Conference on Program Comprehension (ICPC, CCF-B), Full paper
@@ -11,6 +26,13 @@
   year: 2021
   status: Accepted
   pdf: papers/SANER214.pdf
+
+- title: "Two-Stage Attention-Based Model for Code Search with Textual and Structural Features"
+  authors:  Ling Xu, Huanhuan Yang, Chao Liu, Jianhang Shuai, <b>Meng Yan</b>, Yan Lei, Zhou Xu.
+  venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2021
+  status: Accepted
+  pdf: papers/SANER213.pdf
 
 - title: "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network"
   authors:  Zeyu Wang, Sheng Huang, Zhongxin Liu, <b>Meng Yan</b>, Xin Xia, Bei Wang, Dan Yang
