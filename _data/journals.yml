@@ -1,3 +1,9 @@
+- title: "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction"
+  authors:  Ziliang Wang, Xiaohong Zhang, Meng Yan, Ling Xu, Dan Yang
+  venue:  IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A)
+  year: 2021
+  pdf: papers/TPDS211.pdf
+  status: Accepted
 
 - title: "A Compositional Model for Effort-Aware Just-In-Time Defect Prediction on Android Apps"
   authors:  Kunsong Zhao, Zhou Xu, <b>Meng Yan</b>, Lei Xue, Wei Li, Gemma Catolino.
