@@ -1,5 +1,5 @@
 - title: "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction"
-  authors:  Ziliang Wang, Xiaohong Zhang, Meng Yan, Ling Xu, Dan Yang
+  authors:  Ziliang Wang, Xiaohong Zhang, <b>Meng Yan</b>, Ling Xu, Dan Yang
   venue:  IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A)
   year: 2021
   pdf: papers/TPDS211.pdf
