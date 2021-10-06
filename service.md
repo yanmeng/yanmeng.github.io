@@ -4,10 +4,25 @@ title: Services
 permalink: /service/
 ---
 
+## 2022
+
+<ol>
+<li>Program Commitee --  TechDebt'22 Tools Track </li>
+<li>Program Commitee -- MSR'22 Data/Tool Showcase</li>
+</ol>
+
+## 2021
+
+<ol>
+<li>Program Commitee --  Chinasoft 2021 </li>
+</ol>
+
 ## 2020
 
 <ol>
-<li>Journal referee -- Journal of Systems and Software </li>
+<li>Journal referee -- TOSEM </li>
+<li>Journal referee -- IST </li>
+<li>Journal referee -- JSS </li>
 <li>Organization Commitee -- 19th National Software Application Conference (NASAC 2020)</li>
 </ol>
 
