@@ -5,6 +5,18 @@
   year: 2022
   status: Accepted
 
+- title: "Fine-grained Co-Attentive Representation Learning for Semantic Code Search"
+  authors: Zhongyang Deng, Ling Xu, Chao Liu, <b>Meng Yan</b>, Zhou Xu, Yan Lei
+  venue: The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2022
+  status: Accepted
+
+  - title: "BCL-FL: A data augmentation Approach with Between-Class Learning for Fault Localization"
+  authors: Yan Lei, Chunyan Liu, Huan Xie, Sheng Huang, <b>Meng Yan</b>, Zhou Xu
+  venue: The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2022
+  status: Accepted
+
 - title: "Improving Code Summarization Through Automated Quality Assurance"
   authors: Yuxing Hu, <b>Meng Yan</b>, Zhongxin Liu, Qiuyuan Chen, Bei Wang
   venue: The 32nd International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
