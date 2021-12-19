@@ -4,18 +4,22 @@
   venue: The 44th ACM/IEEE International Conference on Software Engineering (ICSE, CCF-A), Full paper
   year: 2022
   status: Accepted
+  pdf: papers/ICSE221.pdf
 
 - title: "Fine-grained Co-Attentive Representation Learning for Semantic Code Search"
   authors: Zhongyang Deng, Ling Xu, Chao Liu, <b>Meng Yan</b>, Zhou Xu, Yan Lei
   venue: The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
   year: 2022
   status: Accepted
+  pdf: papers/SANER222.pdf
 
-  - title: "BCL-FL: A data augmentation Approach with Between-Class Learning for Fault Localization"
+
+- title: "BCL-FL: A data augmentation Approach with Between-Class Learning for Fault Localization"
   authors: Yan Lei, Chunyan Liu, Huan Xie, Sheng Huang, <b>Meng Yan</b>, Zhou Xu
   venue: The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
   year: 2022
   status: Accepted
+  pdf: papers/SANER221.pdf
 
 - title: "Improving Code Summarization Through Automated Quality Assurance"
   authors: Yuxing Hu, <b>Meng Yan</b>, Zhongxin Liu, Qiuyuan Chen, Bei Wang
