@@ -1,3 +1,10 @@
+- title: "Just-In-Time Obsolete Comment Detection and Update"
+  authors:  Zhongxin Liu, Xin Xia, David Lo, <b>Meng Yan</b>, Shanping Li
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2022
+  pdf: papers/TSE221.pdf
+  status: Accepted
+
 - title: "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction"
   authors:  Ziliang Wang, Xiaohong Zhang, <b>Meng Yan</b>, Ling Xu, Dan Yang
   venue:  IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A)
