@@ -40,6 +40,13 @@
   pdf: papers/ESWA211.pdf
   status: Accepted
 
+- title: "A Probability Distribution and Location-aware ResNet Approach for QoS Prediction"
+  authors: Wenyan Zhang, Ling Xu, <b>Meng Yan</b>, Ziliang Wang, Chunlei Fu
+  venue:  Journal of Web Engineering (CCF-C)
+  year: 2021
+  pdf: papers/JWE211.pdf
+  status: Accepted
+
 - title: "Effort-Aware Just-in-Time Bug Prediction for Mobile Apps via Cross-triplet Deep Feature Embedding"
   authors: Zhou Xu, Kunsong Zhao, Tao Zhang, Chunlei Fu, <b>Meng Yan</b>, Zhiwen Xie, Xiaohong Zhang, Gemma Catolino
   venue:  IEEE Transactions on Reliability (TR, JCR Q1)
