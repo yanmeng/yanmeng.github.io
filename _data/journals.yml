@@ -5,6 +5,13 @@
   pdf: papers/TSE221.pdf
   status: Accepted
 
+- title: "Feature-FL: Feature-based Fault Localization"
+  authors:  Yan Lei, Huan Xie, Tao Zhang, <b>Meng Yan</b>, Zhou Xu, Chengnian Sun
+  venue:  IEEE Transactions on Reliability (TR, JCR Q1)
+  year: 2022
+  pdf: papers/TR221.pdf
+  status: Accepted
+
 - title: "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction"
   authors:  Ziliang Wang, Xiaohong Zhang, <b>Meng Yan</b>, Ling Xu, Dan Yang
   venue:  IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A)
@@ -31,6 +38,13 @@
   venue:  Expert Systems With Applications (ESWA, JCR Q1)
   year: 2021
   pdf: papers/ESWA211.pdf
+  status: Accepted
+
+- title: "A Probability Distribution and Location-aware ResNet Approach for QoS Prediction"
+  authors: Wenyan Zhang, Ling Xu, <b>Meng Yan</b>, Ziliang Wang, Chunlei Fu
+  venue:  Journal of Web Engineering (CCF-C)
+  year: 2021
+  pdf: papers/JWE211.pdf
   status: Accepted
 
 - title: "Effort-Aware Just-in-Time Bug Prediction for Mobile Apps via Cross-triplet Deep Feature Embedding"
