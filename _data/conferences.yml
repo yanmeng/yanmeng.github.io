@@ -1,3 +1,9 @@
+- title: "Unified Abstract Syntax Tree Representation Learning for Cross-language Program Classification"
+  authors: Kesu Wang, <b>Meng Yan</b>, He Zhang, Haibo Hu
+  venue: The 30th ACM/IEEE International Conference on Program Comprehension (ICPC, CCF-B), Full paper
+  year: 2022
+  status: Accepted
+  pdf: papers/ICPC221.pdf
 
 - title: "A Universal Data Augmentation Approach for Fault Localization"
   authors: Huan Xie, Yan Lei, <b>Meng Yan</b>, Yue Yu, Xin Xia, Xiaoguang Mao
