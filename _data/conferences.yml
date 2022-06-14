@@ -1,5 +1,12 @@
+- title: "Improving Fault Localization Using Model-domain Synthesized Failing Test Generation"
+  authors: YZhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Xin Xia, Xiaohong Zhang
+  venue: The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME, CCF-B), Full paper
+  year: 2022
+  status: Accepted
+  pdf: papers/ICSME221.pdf
+
 - title: "Deep Attentive Anomaly Detection for Microservice Systems with Multimodal Time-Series Data"
-  authors: Yufu Chen, <b>Meng Yan</b>, Xiaohong Zhang, Ziliang Wang, Dan Yang
+  authors: Yufu Chen, <b>Meng Yan</b>, Dan Yang, Xiaohong Zhang, Ziliang Wang 
   venue: The IEEE International Conference on Web Services (ICWS, CCF-B), Short paper
   year: 2022
   status: Accepted
