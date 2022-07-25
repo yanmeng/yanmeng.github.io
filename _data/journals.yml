@@ -1,3 +1,10 @@
+- title: "An Empirical Study of the Impact of Log Parsers on the Performance of Log-based Anomaly Detection"
+  authors:  Ying Fu, <b>Meng Yan</b>, Zhou Xu, Xin Xia, Xiaohong Zhang, Dan Yang
+  venue:  Empirical Software Engineering (EMSE, CCF-B)
+  year: 2022
+  pdf: papers/EMSE221.pdf
+  status: Accepted
+
 - title: "Just-In-Time Obsolete Comment Detection and Update"
   authors:  Zhongxin Liu, Xin Xia, David Lo, <b>Meng Yan</b>, Shanping Li
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
