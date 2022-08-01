@@ -1,3 +1,9 @@
+- title: "A Naming Pattern Based Approach for Method Name Recommendation"
+  authors: Yanping Yang, Ling Xu, <b>Meng Yan</b>, Zhou Xu, Zhongyang Deng
+  venue: The 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
+  status: Accepted
+  pdf: papers/ISSRE221.pdf
+
 - title: "Improving Fault Localization Using Model-domain Synthesized Failing Test Generation"
   authors: Zhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Xin Xia, Xiaohong Zhang
   venue: The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME, CCF-B), Full paper
@@ -24,7 +30,7 @@
   venue: The 44th ACM/IEEE International Conference on Software Engineering (ICSE, CCF-A), Full paper
   year: 2022
   status: Accepted
-  pdf: papers/ICSE220.pdf
+  pdf: papers/ICSE221.pdf
 
 - title: "Fine-grained Co-Attentive Representation Learning for Semantic Code Search"
   authors: Zhongyang Deng, Ling Xu, Chao Liu, <b>Meng Yan</b>, Zhou Xu, Yan Lei
