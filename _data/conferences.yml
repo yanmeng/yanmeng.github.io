@@ -1,6 +1,14 @@
+- title: "Investigating and Improving Log Parsing in Practice"
+  authors: Ying Fu, <b>Meng Yan</b>, Jian Xu, Jianguo Li, Zhongxin Liu, Xiaohong Zhang, Dan Yang
+  venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Industry Full paper
+  year: 2022
+  status: Accepted
+  pdf: papers/FSE221.pdf
+
 - title: "A Naming Pattern Based Approach for Method Name Recommendation"
   authors: Yanping Yang, Ling Xu, <b>Meng Yan</b>, Zhou Xu, Zhongyang Deng
   venue: The 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
+  year: 2022
   status: Accepted
   pdf: papers/ISSRE221.pdf
 
