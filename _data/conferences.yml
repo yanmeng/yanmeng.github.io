@@ -1,3 +1,10 @@
+- title: "Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach"
+  authors: Zhuo Zhang, Yan Lei, <b>Meng Yan</b>, Yue Yu, Jiachi Chen, Shangwen Wang, Xiaoguang Mao
+  venue: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022, CCF-A), Full paper
+  year: 2022
+  status: Accepted
+  pdf: papers/ASE221.pdf
+
 - title: "CodeMatcher: A Tool for Large-Scale Code Search Based on Query Semantics Matching"
   authors: Chao Liu, Xuanlin Bao, Xin Xia, <b>Meng Yan</b>, David Lo, Ting Zhang
   venue: The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demo paper
