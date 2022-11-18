@@ -12,6 +12,13 @@
   pdf: papers/TSE221.pdf
   status: Accepted
 
+- title: "An unsupervised cross project model for crashing fault residence identification"
+  authors:  Xiao Liu, Zhou Xu, Dan Yang, <b>Meng Yan</b>, Weihan Zhang, Haohan Zhao, Lei Xue, Ming Fan
+  venue:  IET Software (CCF-B)
+  year: 2022
+  pdf: papers/IET221.pdf
+  status: Accepted
+
 - title: "Feature-FL: Feature-based Fault Localization"
   authors:  Yan Lei, Huan Xie, Tao Zhang, <b>Meng Yan</b>, Zhou Xu, Chengnian Sun
   venue:  IEEE Transactions on Reliability (TR, JCR Q1)
