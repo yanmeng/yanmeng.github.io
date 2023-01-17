@@ -1,3 +1,17 @@
+- title: "The Impact of Class Imbalance Techniques on Crashing Fault Residence Prediction Models"
+  authors:  Kunsong Zhao, Zhou Xu, <b>Meng Yan</b>, Tao Zhang, Lei Xue, Ming Fan, Jacky Keung
+  venue:  Empirical Software Engineering (EMSE, CCF-B)
+  year: 2023
+  pdf: papers/EMSE231.pdf
+  status: Accepted
+
+- title: "MetaFL: Metamorphic Fault Localization Using Weakly Supervised Deep Learning"
+  authors:  Lingfeng Fu, Yan Lei, <b>Meng Yan</b>, Ling Xu, Zhou Xu, Xiaohong Zhang
+  venue:   IET Software (IETS, CCF-B)
+  year: 2023
+  pdf: papers/IETS231.pdf
+  status: Accepted
+
 - title: "Influential Global and Local Contexts Guided Trace Representation for Fault Localization"
   authors:  Zhuo Zhang, Yan Lei, Ting Su, <b>Meng Yan</b>, Xiaoguang Mao, Yue Yu
   venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
@@ -21,7 +35,7 @@
 
 - title: "An unsupervised cross project model for crashing fault residence identification"
   authors:  Xiao Liu, Zhou Xu, Dan Yang, <b>Meng Yan</b>, Weihan Zhang, Haohan Zhao, Lei Xue, Ming Fan
-  venue:  IET Software (CCF-B)
+  venue:  IET Software (IETS, CCF-B)
   year: 2022
   pdf: papers/IET221.pdf
   status: Accepted
