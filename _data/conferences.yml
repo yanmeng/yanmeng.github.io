@@ -1,19 +1,19 @@
 - title: "A Feature Distribution Smoothing Network Based On Gaussian Distribution For QoS Prediction"
   authors:  Tongxin Lu, Xiaohong Zhang, Ziliang Wang, <b>Meng Yan</b>
-  venue: The IEEE International Conference on Web Services (ICWS 2023), Full paper
+  venue: The IEEE International Conference on Web Services (ICWS, CCF-B), Full paper
   year: 2023
   status: Accepted
   pdf: papers/ICWS231.pdf
 
 - title: "An Adaptive Partition-Based Approach for Adaptive Random Testing on Real Programs"
-  authors:  Yisheng Xia, Weifeng Sun, <b>Meng Yan</b>, Lei Xu, Dan Yang.
+  authors:  Yisheng Xia, Weifeng Sun, <b>Meng Yan</b>, Lei Xu, Dan Yang
   venue: The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Short paper
   year: 2023
   status: Accepted
   pdf: papers/SANER231.pdf
 
 - title: "DeepScaling:Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems"
-  authors: Ziliang Wang, Shiyi Zhu, Jianguo Li, Wei Jiang, K.K.Ramakrishnan, Yangfei Zheng, <b>Meng Yan</b>, Xiaohong Zhang, Alex X. Liu.
+  authors: Ziliang Wang, Shiyi Zhu, Jianguo Li, Wei Jiang, K.K.Ramakrishnan, Yangfei Zheng, <b>Meng Yan</b>, Xiaohong Zhang, Alex X. Liu
   venue: The 13th ACM Symposium on Cloud Computing (SoCC 2022, CCF-B), Full paper
   year: 2022
   status: Accepted
