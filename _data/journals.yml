@@ -1,3 +1,10 @@
+- title: "A First Look at Bug Report Templates on GitHub"
+  authors: Hongyan Li, <b>Meng Yan</b>, Weifeng Sun, Xiao Liu, Yunsong Wu.
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2023
+  pdf: papers/JSS231.pdf
+  status: Accepted
+
 - title: "The Impact of Class Imbalance Techniques on Crashing Fault Residence Prediction Models"
   authors:  Kunsong Zhao, Zhou Xu, <b>Meng Yan</b>, Tao Zhang, Lei Xue, Ming Fan, Jacky Keung
   venue:  Empirical Software Engineering (EMSE, CCF-B)
