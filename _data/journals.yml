@@ -1,3 +1,10 @@
+- title: "Revisiting the Identification of the Co-Evolution of Production and Test Code"
+  authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, Xin Xia, Yan Lei, David Lo.
+  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  year: 2023
+  pdf: papers/TOSEM231.pdf
+  status: Accepted
+
 - title: "Context-Aware Neural Fault Localization"
   authors: Zhuo Zhang, Yan Lei, Xiaoguang Mao, <b>Meng Yan</b>, Xin Xia, David Lo
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
