@@ -1,3 +1,10 @@
+- title: "Revisiting and Improving Retrieval-Augmented Deep Assertion Generation"
+  authors:  Weifeng Sun, Hongyan Li, <b>Meng Yan</b>, Yan Lei, Hongyu Zhang
+  venue: The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
+  year: 2023
+  status: Accepted
+  pdf: papers/ASE231.pdf
+
 - title: "A Feature Distribution Smoothing Network Based On Gaussian Distribution For QoS Prediction"
   authors:  Tongxin Lu, Xiaohong Zhang, Ziliang Wang, <b>Meng Yan</b>
   venue: The IEEE International Conference on Web Services (ICWS, CCF-B), Full paper
