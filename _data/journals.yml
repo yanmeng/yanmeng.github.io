@@ -1,5 +1,19 @@
+- title: "Robust Test Selection for Deep Neural Networks"
+  authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, David Lo
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2023
+  pdf: papers/TSE232.pdf
+  status: Accepted
+
+- title: "Code Semantic Enrichment for Deep Code Search"
+  authors: Zhongyang Deng, Ling Xu, Chao Liu, Luwen Huangfu, <b>Meng Yan</b>.
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2023
+  pdf: papers/JSS232.pdf
+  status: Accepted
+
 - title: "Revisiting the Identification of the Co-Evolution of Production and Test Code"
-  authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, Xin Xia, Yan Lei, David Lo.
+  authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, Xin Xia, Yan Lei, David Lo
   venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
   year: 2023
   pdf: papers/TOSEM231.pdf
