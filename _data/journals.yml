@@ -1,3 +1,10 @@
+- title: "Understanding the Implementation Issues When Using Deep Learning Frameworks"
+  authors: Chao Liu, Runfeng Cai, Yiqun Zhou, Xin Chen, Haibo Hu, <b>Meng Yan</b>
+  venue:  Information and Software Technology (IST, CCF-B)
+  year: 2023
+  pdf: papers/IST231.pdf
+  status: Accepted
+
 - title: "Robust Test Selection for Deep Neural Networks"
   authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, David Lo
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
