@@ -1,5 +1,5 @@
 - title: "Revisiting and Improving Retrieval-Augmented Deep Assertion Generation"
-  authors:  Weifeng Sun, Hongyan Li, <b>Meng Yan</b>, Yan Lei, Hongyu Zhang
+  authors:  Weifeng Sun, Hongyan Li, <b>Meng Yan*</b>, Yan Lei, Hongyu Zhang
   venue: The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
   year: 2023
   status: Accepted
@@ -13,7 +13,7 @@
   pdf: papers/ICWS231.pdf
 
 - title: "An Adaptive Partition-Based Approach for Adaptive Random Testing on Real Programs"
-  authors:  Yisheng Xia, Weifeng Sun, <b>Meng Yan</b>, Lei Xu, Dan Yang
+  authors:  Yisheng Xia, Weifeng Sun, <b>Meng Yan*</b>, Lei Xu, Dan Yang
   venue: The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Short paper
   year: 2023
   status: Accepted
@@ -34,14 +34,14 @@
   pdf: papers/ASE221.pdf
 
 - title: "CodeMatcher: A Tool for Large-Scale Code Search Based on Query Semantics Matching"
-  authors: Chao Liu, Xuanlin Bao, Xin Xia, <b>Meng Yan</b>, David Lo, Ting Zhang
+  authors: Chao Liu, Xuanlin Bao, Xin Xia, <b>Meng Yan*</b>, David Lo, Ting Zhang
   venue: The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demo paper
   year: 2022
   status: Accepted
   pdf: papers/FSE222.pdf
 
 - title: "Investigating and Improving Log Parsing in Practice"
-  authors: Ying Fu, <b>Meng Yan</b>, Jian Xu, Jianguo Li, Zhongxin Liu, Xiaohong Zhang, Dan Yang
+  authors: Ying Fu, <b>Meng Yan*</b>, Jian Xu, Jianguo Li, Zhongxin Liu, Xiaohong Zhang, Dan Yang
   venue: The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Industry Full paper
   year: 2022
   status: Accepted
@@ -62,7 +62,7 @@
   pdf: papers/ICSME221.pdf
 
 - title: "Deep Attentive Anomaly Detection for Microservice Systems with Multimodal Time-Series Data"
-  authors: Yufu Chen, <b>Meng Yan</b>, Dan Yang, Xiaohong Zhang, Ziliang Wang 
+  authors: Yufu Chen, <b>Meng Yan*</b>, Dan Yang, Xiaohong Zhang, Ziliang Wang 
   venue: The IEEE International Conference on Web Services (ICWS, CCF-B), Short paper
   year: 2022
   status: Accepted
@@ -98,7 +98,7 @@
   pdf: papers/SANER221.pdf
 
 - title: "Improving Code Summarization Through Automated Quality Assurance"
-  authors: Yuxing Hu, <b>Meng Yan</b>, Zhongxin Liu, Qiuyuan Chen, Bei Wang
+  authors: Yuxing Hu, <b>Meng Yan*</b>, Zhongxin Liu, Qiuyuan Chen, Bei Wang
   venue: The 32nd International Symposium on Software Reliability Engineering (ISSRE, CCF-B), Full paper
   year: 2021
   status: Accepted
@@ -119,21 +119,21 @@
   pdf: papers/ICPC211.pdf
 
 - title: "Quality Assurance for Automated Commit Message Generation"
-  authors:  Bei Wang, <b>Meng Yan</b>, Zhongxin Liu, Ling Xu, Xin Xia, Xiaohong Zhang, Dan Yang
+  authors:  Bei Wang, <b>Meng Yan*</b>, Zhongxin Liu, Ling Xu, Xin Xia, Xiaohong Zhang, Dan Yang
   venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
   year: 2021
   status: Accepted
   pdf: papers/SANER214.pdf
 
 - title: "Two-Stage Attention-Based Model for Code Search with Textual and Structural Features"
-  authors:  Ling Xu, Huanhuan Yang, Chao Liu, Jianhang Shuai, <b>Meng Yan</b>, Yan Lei, Zhou Xu.
+  authors:  Ling Xu, Huanhuan Yang, Chao Liu, Jianhang Shuai, <b>Meng Yan*</b>, Yan Lei, Zhou Xu.
   venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
   year: 2021
   status: Accepted
   pdf: papers/SANER213.pdf
 
 - title: "Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network"
-  authors:  Zeyu Wang, Sheng Huang, Zhongxin Liu, <b>Meng Yan</b>, Xin Xia, Bei Wang, Dan Yang
+  authors:  Zeyu Wang, Sheng Huang, Zhongxin Liu, <b>Meng Yan*</b>, Xin Xia, Bei Wang, Dan Yang
   venue: The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
   year: 2021
   status: Accepted
@@ -154,7 +154,7 @@
   pdf: papers/SAC201.pdf
 
 - title: "JITO: A Tool for Just-In-Time Defect Identification and Localization"
-  authors: Fangcheng Qiu, <b>Meng Yan</b>, Xin Xia, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo
+  authors: Fangcheng Qiu, <b>Meng Yan*</b>, Xin Xia, Xinyu Wang, Yuanrui Fan, Ahmed E. Hassan, David Lo
   venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE, CCF-A), Tool Demonstrations Track paper
   year: 2020
   status: Accepted
@@ -190,7 +190,7 @@
   pdf: papers/ISSRE20.pdf
 
 - title: "Improving Log-Based Anomaly Detection with Component-Aware Analysis"
-  authors: Kun Yin, <b>Meng Yan</b>, Ling Xu, Zhou Xu, Zhao Li, Dan Yang, Xiaohong Zhang
+  authors: Kun Yin, <b>Meng Yan*</b>, Ling Xu, Zhou Xu, Zhao Li, Dan Yang, Xiaohong Zhang
   venue: The 36th International Conference on Software Maintenance and Evolution (ICSME, CCF-B), NIER paper
   year: 2020
   status: Accepted
