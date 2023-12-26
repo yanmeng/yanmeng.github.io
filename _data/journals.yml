@@ -6,7 +6,7 @@
   status: Accepted
 
 - title: "Robust Test Selection for Deep Neural Networks"
-  authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, David Lo
+  authors: Weifeng Sun, <b>Meng Yan*</b>, Zhongxin Liu, David Lo
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
   year: 2023
   pdf: papers/TSE232.pdf
@@ -20,7 +20,7 @@
   status: Accepted
 
 - title: "Revisiting the Identification of the Co-Evolution of Production and Test Code"
-  authors: Weifeng Sun, <b>Meng Yan</b>, Zhongxin Liu, Xin Xia, Yan Lei, David Lo
+  authors: Weifeng Sun, <b>Meng Yan*</b>, Zhongxin Liu, Xin Xia, Yan Lei, David Lo
   venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
   year: 2023
   pdf: papers/TOSEM231.pdf
@@ -34,7 +34,7 @@
   status: Accepted
 
 - title: "A First Look at Bug Report Templates on GitHub"
-  authors: Hongyan Li, <b>Meng Yan</b>, Weifeng Sun, Xiao Liu, Yunsong Wu
+  authors: Hongyan Li, <b>Meng Yan*</b>, Weifeng Sun, Xiao Liu, Yunsong Wu
   venue:  Journal of Systems and Software (JSS, CCF-B)
   year: 2023
   pdf: papers/JSS231.pdf
@@ -62,7 +62,7 @@
   status: Accepted
 
 - title: "An Empirical Study of the Impact of Log Parsers on the Performance of Log-based Anomaly Detection"
-  authors:  Ying Fu, <b>Meng Yan</b>, Zhou Xu, Xin Xia, Xiaohong Zhang, Dan Yang
+  authors:  Ying Fu, <b>Meng Yan*</b>, Zhou Xu, Xin Xia, Xiaohong Zhang, Dan Yang
   venue:  Empirical Software Engineering (EMSE, CCF-B)
   year: 2022
   pdf: papers/EMSE221.pdf
@@ -90,7 +90,7 @@
   status: Accepted
 
 - title: "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction"
-  authors:  Ziliang Wang, Xiaohong Zhang, <b>Meng Yan</b>, Ling Xu, Dan Yang
+  authors:  Ziliang Wang, Xiaohong Zhang, <b>Meng Yan*</b>, Ling Xu, Dan Yang
   venue:  IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A)
   year: 2021
   pdf: papers/TPDS211.pdf
@@ -111,7 +111,7 @@
   status: Accepted
 
 - title: "Co-Attentive Representation Learning for Web Services Classification"
-  authors: Bin Tang, <b>Meng Yan</b>, Neng Zhang, Ling Xu, Xiaohong Zhang, Haijun Ren
+  authors: Bin Tang, <b>Meng Yan*</b>, Neng Zhang, Ling Xu, Xiaohong Zhang, Haijun Ren
   venue:  Expert Systems With Applications (ESWA, JCR Q1)
   year: 2021
   pdf: papers/ESWA211.pdf
@@ -132,7 +132,7 @@
   status: Accepted
 
 - title: "The Impact of Duplicate Changes on Just-in-Time Defect Prediction"
-  authors: Ruifeng Duan, Haitao Xu, Yuanrui Fan, <b>Meng Yan</b>
+  authors: Ruifeng Duan, Haitao Xu, Yuanrui Fan, <b>Meng Yan*</b>
   venue:  IEEE Transactions on Reliability (TR, JCR Q1)
   year: 2021
   pdf: papers/TR212.pdf
@@ -153,14 +153,14 @@
   status: Accepted
 
 - title: "A Comprehensive Comparative Study of Clustering-based Unsupervised Defect Prediction Models"
-  authors: Zhou Xu, Li Li, <b>Meng Yan</b>, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang
+  authors: Zhou Xu, Li Li, <b>Meng Yan*</b>, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang
   venue:  Journal of Systems and Software (JSS, CCF-B)
   year: 2020
   pdf: papers/JSS203.pdf
   status: Accepted
 
 - title: "Feature Selection and Embedding Based Cross Project Framework for Identifying Crashing Fault Residence"
-  authors: Zhou Xu, Tao Zhang, Jacky Keung, <b>Meng Yan</b>, Xiapu Luo , Xiaohong Zhang, Ling Xu, Yutian Tang
+  authors: Zhou Xu, Tao Zhang, Jacky Keung, <b>Meng Yan*</b>, Xiapu Luo , Xiaohong Zhang, Ling Xu, Yutian Tang
   venue:  Information and Software Technology (IST, CCF-B)
   pdf: papers/IST201.pdf
   year: 2020
@@ -181,7 +181,7 @@
   status: Accepted
 
 - title: "Imbalanced Metric Learning for Crashing Fault Residence Prediction"
-  authors:  Zhou Xu, Kunsong Zhao, <b>Meng Yan</b>, Peipei Yuan, Ling Xu, Yan Lei, Xiaohong Zhang
+  authors:  Zhou Xu, Kunsong Zhao, <b>Meng Yan*</b>, Peipei Yuan, Ling Xu, Yan Lei, Xiaohong Zhang
   venue:  Journal of Systems and Software (JSS, CCF-B)
   pdf: papers/JSS201.pdf
   year: 2020
