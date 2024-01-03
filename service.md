@@ -4,11 +4,29 @@ title: Services
 permalink: /service/
 ---
 
+## 2025
+
+<ol>
+<li>Program Commitee -- ICSE 2025</li>
+</ol>
+
+
+## 2024
+
+<ol>
+<li>Program Co-Chair -- APSEC 2024 </li>	
+<li>Program Commitee -- ASE 2024</li>
+<li>Program Commitee -- ISSTA 2024</li>
+<li>Program Commitee -- ICSE 2024 SEIS Track </li>
+</ol>
+
 ## 2023
 
 <ol>
+<li>Program Co-Chair -- APSEC 2023 </li>	
 <li>Program Commitee -- SANER 2023 </li>
 <li>Program Commitee -- ICSE 2023 Demo Track</li>
+<li>Program Commitee -- BlockSys 2023</li>
 </ol>
 
 ## 2022
