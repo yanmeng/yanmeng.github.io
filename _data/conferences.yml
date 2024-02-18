@@ -1,3 +1,17 @@
+- title: "Guiding ChatGPT for Better Code Generation: An Empirical Study"
+  authors: Chao Liu, Xuanlin Bao, Hongyu Zhang, Neng Zhang, Haibo Hu, Xiaohong Zhang, <b>Meng Yan*</b>
+  venue: The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
+  year: 2024
+  status: Accepted
+  pdf: papers/SANER241.pdf
+
+- title: "AW4C: A Commit-Aware C Dataset for Actionable Warning Identification"
+  authors: Zhipeng Liu, Meng Yan, Zhipeng Gao, Dong Li, Xiaohong Zhang, Dan Yang
+  venue: The International Conference on Mining Software Repositories (MSR, CCF-C), Data and Tools Showcase Track paper
+  year: 2024
+  status: Accepted
+  pdf: papers/MSR241.pdf
+
 - title: "Revisiting and Improving Retrieval-Augmented Deep Assertion Generation"
   authors:  Weifeng Sun, Hongyan Li, <b>Meng Yan*</b>, Yan Lei, Hongyu Zhang
   venue: The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
