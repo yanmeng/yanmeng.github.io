@@ -6,7 +6,7 @@
   pdf: papers/SANER241.pdf
 
 - title: "AW4C: A Commit-Aware C Dataset for Actionable Warning Identification"
-  authors: Zhipeng Liu, Meng Yan, Zhipeng Gao, Dong Li, Xiaohong Zhang, Dan Yang
+  authors: Zhipeng Liu, <b>Meng Yan*</b>, Zhipeng Gao, Dong Li, Xiaohong Zhang, Dan Yang
   venue: The International Conference on Mining Software Repositories (MSR, CCF-C), Data and Tools Showcase Track paper
   year: 2024
   status: Accepted
@@ -18,6 +18,13 @@
   year: 2023
   status: Accepted
   pdf: papers/ASE231.pdf
+
+- title: "Just-In-Time Method Name Updating With Heuristics and Neural Model"
+  authors: Zhenting Guo, <b>Meng Yan*</b>, Hongyan Li, Zhezhe Chen, and Weifeng Sun
+  venue: The IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS, CCF-C), Full paper
+  year: 2023
+  status: Accepted
+  pdf: papers/QRS231.pdf
 
 - title: "A Feature Distribution Smoothing Network Based On Gaussian Distribution For QoS Prediction"
   authors:  Tongxin Lu, Xiaohong Zhang, Ziliang Wang, <b>Meng Yan</b>
