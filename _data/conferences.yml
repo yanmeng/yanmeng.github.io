@@ -1,3 +1,10 @@
+- title: "An Empirical Study of Code Search in Intelligent Coding Assistant: Perceptions, Expectations, and Directions"
+  authors: Chao Liu, Xindong Zhang, Hongyu Zhang, Zhiyuan Wan, Zhan Huang, <b>Meng Yan</b>
+  venue: The ACM International Conference on the Foundations of Software Engineering (FSE, CCF-A), Industry Full paper
+  year: 2024
+  status: Accepted
+  pdf: papers/FSE241.pdf
+
 - title: "Guiding ChatGPT for Better Code Generation: An Empirical Study"
   authors: Chao Liu, Xuanlin Bao, Hongyu Zhang, Neng Zhang, Haibo Hu, Xiaohong Zhang, <b>Meng Yan*</b>
   venue: The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Full paper
