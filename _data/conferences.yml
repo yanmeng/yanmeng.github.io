@@ -1,3 +1,10 @@
+- title: "DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection"
+  authors: Zhonghao Jiang, Weifeng Sun, Xiaoyan Gu, Jiaxin Wu, Tao Wen, Haibo Hu, <b>Meng Yan*</b>
+  venue: The 15th Asia-Pacific Symposium on Internetware (CCF-C), Full paper
+  year: 2024
+  status: Accepted
+  pdf: papers/INT241.pdf
+
 - title: "An Empirical Study of Code Search in Intelligent Coding Assistant: Perceptions, Expectations, and Directions"
   authors: Chao Liu, Xindong Zhang, Hongyu Zhang, Zhiyuan Wan, Zhan Huang, <b>Meng Yan</b>
   venue: The ACM International Conference on the Foundations of Software Engineering (FSE, CCF-A), Industry Full paper
