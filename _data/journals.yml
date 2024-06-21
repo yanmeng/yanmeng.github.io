@@ -1,3 +1,17 @@
+- title: "End-to-End Log Statement Generation at Block-Level"
+  authors: Ying Fu, <b>Meng Yan*</b>, Pinjia He, Chao Liu, Xiaohong Zhang, Dan Yang
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2024
+  pdf: papers/JSS241.pdf
+  status: Accepted
+
+- title: "DeepScaling: Autoscaling Microservices with Stable CPU Utilization for Large Scale Production Cloud Systems"
+  authors: Ziliang Wang, Shiyi Zhu, Jianguo Li, Wei Jiang, K. K. Ramakrishnan, <b>Meng Yan</b>, Xiaohong Zhang, Alex X. Liu
+  venue:  IEEE/ACM Transactions on Networking (TON, CCF-A)
+  year: 2024
+  pdf: papers/TON241.pdf
+  status: Accepted
+
 - title: "Understanding the Implementation Issues When Using Deep Learning Frameworks"
   authors: Chao Liu, Runfeng Cai, Yiqun Zhou, Xin Chen, Haibo Hu, <b>Meng Yan</b>
   venue:  Information and Software Technology (IST, CCF-B)
