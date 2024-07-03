@@ -1,3 +1,10 @@
+- title: "CoSec: On-the-Fly Security Hardening of Code LLMs via Supervised Co-Decoding"
+  authors: Dong Li, <b>Meng Yan*</b>, Yaosheng Zhang, Zhongxin Liu, Chao Liu, Xiaohong Zhang, Ting Chen, David Lo
+  venue: The International Symposium on Software Testing and Analysis (ISSTA, CCF-A) , Full paper
+  year: 2024
+  status: Accepted
+  pdf: papers/ISSTA241.pdf
+
 - title: "DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection"
   authors: Zhonghao Jiang, Weifeng Sun, Xiaoyan Gu, Jiaxin Wu, Tao Wen, Haibo Hu, <b>Meng Yan*</b>
   venue: The 15th Asia-Pacific Symposium on Internetware (CCF-C), Full paper
