@@ -1,3 +1,10 @@
+- title: "MSAnomaly: Time Series Anomaly Detection with Multi-Scale Augmentation and Fusion"
+  authors: Tao Yin, Zhibin Zhang, Shikang Hou, Huan Zhao, Lijiao Zheng, Yifei Zhou, Jin Xie, <b>Meng Yan*</b>
+  venue: The 20th International Conference Advanced Data Mining and Applications (ADMA, CCF-C) , Full paper
+  year: 2024
+  status: Accepted
+  pdf: papers/ADMA241.pdf
+
 - title: "Combining Coverage and Expert Features with Semantic Representation for Coincidental Correctness Detection"
   authors: Huan Xie, Yan Lei, Maojin Li, <b>Meng Yan</b>, Sheng Zhang
   venue: The IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A) , Full paper
