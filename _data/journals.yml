@@ -1,20 +1,27 @@
+- title: "Towards More Precise Coincidental Correctness Detection with Deep Semantic Learning"
+  authors: Huan Xie, Yan Lei, <b>Meng Yan</b>, Shanshan Li, Xiaoguang Mao, Yue Yu, David Lo
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2024
+  pdf: papers/TSE242.pdf
+  status: Accepted
+
 - title: "Exploring Automated Assertion Generation via Large Language Models"
   authors: Quanjun Zhang, Weifeng Sun, Chunrong Fang, Bowen Yu, Hongyan Li, <b>Meng Yan</b>, Jianyi Zhou, Zhenyu Chen
-  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  venue: ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
   year: 2024
   pdf: papers/TOSEM242.pdf
   status: Accepted
 
 - title: "Method-Level Test-to-Code Traceability Link Construction by Semantic Correlation Learning"
   authors: Weifeng Sun, Zhenting Guo, <b>Meng Yan*</b>, Zhongxin Liu, Yan Lei, Hongyu Zhang
-  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  venue: IEEE Transactions on Software Engineering (TSE, CCF-A)
   year: 2024
   pdf: papers/TSE241.pdf
   status: Accepted
 
 - title: "Neuron Semantic-Guided Test Generation for Deep Neural Networks Fuzzing"
   authors: Li Huang, Weifeng Sun, <b>Meng Yan*</b>, Zhongxin Liu, Yan Lei, David Lo
-  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  venue: ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
   year: 2024
   pdf: papers/TOSEM241.pdf
   status: Accepted
