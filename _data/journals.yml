@@ -1,3 +1,10 @@
+- title: "TAB: Template-Aware Bug Report Title Generation via Two-Phase Fine-tuned Models"
+  authors: Xiao Liu, Yinkang Xu, Weifeng Sun*, Naiqi Huang, Song Sun, Qiang Li, Dan Yang, <b>Meng Yan*</b>
+  venue:  Automated Software Engineering (ASEJ, CCF-B)
+  year: 2025
+  pdf: papers/ASEJ251.pdf
+  status: Accepted
+
 - title: "Towards More Precise Coincidental Correctness Detection with Deep Semantic Learning"
   authors: Huan Xie, Yan Lei, <b>Meng Yan</b>, Shanshan Li, Xiaoguang Mao, Yue Yu, David Lo
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
