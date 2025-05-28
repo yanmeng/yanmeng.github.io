@@ -1,3 +1,10 @@
+- title: "Feature Noise Resilient for QoS Prediction with Probabilistic Deep Supervision"
+  authors: Ziliang Wang, Xiaohong Zhang, Zeshi Li, Sheng Huang, <b>Meng Yan</b> 
+  venue:  IEEE Transactions on Services Computing (TSC, CCF-A)
+  year: 2025
+  pdf: papers/TSC251.pdf
+  status: Accepted
+  
 - title: "DeepVec: State-Vector Aware Test Case Selection for Enhancing Recurrent Neural Network"
   authors: Zhonghao Jiang, <b>Meng Yan*</b>, Li Huang, Weifeng Sun, Chao Liu, Song Sun, David Lo
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
