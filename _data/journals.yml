@@ -1,3 +1,10 @@
+- title: "Improving Co-Decoding Based Security Hardening of Code LLMs Leveraging Knowledge Distillation"
+  authors: Dong Li, Shanfu Shu, <b>Meng Yan*</b>, Zhongxin Liu, Chao Liu, Xiaohong Zhang, David Lo  
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2025
+  pdf: papers/TSE253.pdf
+  status: Accepted
+
 - title: "Feature Noise Resilient for QoS Prediction with Probabilistic Deep Supervision"
   authors: Ziliang Wang, Xiaohong Zhang, Zeshi Li, Sheng Huang, <b>Meng Yan</b> 
   venue:  IEEE Transactions on Services Computing (TSC, CCF-A)
