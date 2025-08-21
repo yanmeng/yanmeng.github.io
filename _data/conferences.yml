@@ -1,3 +1,10 @@
+- title: "Issue Localization via LLM-Driven Iterative Code Graph Searching"
+  authors: Zhonghao Jiang, Xiaoxue Ren, <b>Meng Yan</b>, Wei Jiang, Yong Li, Zhongxin Liu
+  venue: The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper
+  year: 2025
+  status: Accepted
+  pdf: papers/ASE251.pdf
+  
 - title: "CoSEFA: An LLM-Based Programming Assistant for Secure Code Generation via Supervised Co-Decoding"
   authors: Xuan He, Dong Li, Hao Wen, Yueheng Zhu, Chao Liu, <b>Meng Yan</b>, Hongyu Zhang
   venue: The ACM International Conference on the Foundations of Software Engineering (FSE, CCF-A), Tool demo paper
