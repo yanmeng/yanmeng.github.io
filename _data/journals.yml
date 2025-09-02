@@ -1,3 +1,10 @@
+- title: "On-the-Fly Generation-Quality Enhancement of Deep Code Models via Model Collaboration"
+  authors: Weifeng Sun, Naiqi Huang, <b>Meng Yan*</b>, Zhongxin Liu, Hongyan Li, Yan Lei, David Lo  
+  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  year: 2025
+  pdf: papers/TOSEM251.pdf
+  status: Accepted
+
 - title: "Improving Co-Decoding Based Security Hardening of Code LLMs Leveraging Knowledge Distillation"
   authors: Dong Li, Shanfu Shu, <b>Meng Yan*</b>, Zhongxin Liu, Chao Liu, Xiaohong Zhang, David Lo  
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
