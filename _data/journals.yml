@@ -1,3 +1,10 @@
+- title: "A Region-Aware Dual Latent State Mining Framework for Service Recommendation in Large-Scale Service Networks"
+  authors: Ziliang Wang, Xiaohong Zhang, Zeshi Li, <b>Meng Yan</b>  
+  venue:  IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A)
+  year: 2025
+  pdf: papers/TKDE251.pdf
+  status: Accepted
+
 - title: "On-the-Fly Generation-Quality Enhancement of Deep Code Models via Model Collaboration"
   authors: Weifeng Sun, Naiqi Huang, <b>Meng Yan*</b>, Zhongxin Liu, Hongyan Li, Yan Lei, David Lo  
   venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
