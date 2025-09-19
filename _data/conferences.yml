@@ -1,3 +1,10 @@
+- title: "ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection"
+  authors: Tao Yin, Xiaohong Zhang, Shaochen Fu, Zhibin Zhang, Li Huang, Yiyuan Yang, Kaixiang Yang, <b>Meng Yan*</b>
+  venue: The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A), Full paper
+  year: 2025
+  status: Accepted
+  pdf: papers/NIPS251.pdf
+
 - title: "Issue Localization via LLM-Driven Iterative Code Graph Searching"
   authors: Zhonghao Jiang, Xiaoxue Ren, <b>Meng Yan</b>, Wei Jiang, Yong Li, Zhongxin Liu
   venue: The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Full paper

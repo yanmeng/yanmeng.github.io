@@ -1,3 +1,10 @@
+- title: "Subsequence heterogeneity contrastive learning for time series anomaly detection"
+  authors: Zhibin Zhang, Xiaohong Zhang, Qiang Li, Chun Huang, Tao Yin, <b>Meng Yan</b>  
+  venue:  Information Sciences (CCF-B)
+  year: 2025
+  pdf: papers/INS251.pdf
+  status: Accepted
+
 - title: "A Region-Aware Dual Latent State Mining Framework for Service Recommendation in Large-Scale Service Networks"
   authors: Ziliang Wang, Xiaohong Zhang, Zeshi Li, <b>Meng Yan</b>  
   venue:  IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A)
