@@ -1,3 +1,17 @@
+- title: "M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection"
+  authors: Ziliang Wang, Ge Li, Jia Li ♂, Jia Li, <b>Meng Yan</b>, Yingfei Xiong, Zhi Jin.  
+  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  year: 2025
+  pdf: papers/TOSEM252.pdf
+  status: Accepted
+
+- title: "QoSBERT: An Uncertainty-Aware Approach Based on Pre-trained Language Models for Service Quality Prediction"
+  authors: Ziliang Wang, Xiaohong Zhang, Zeshi Li, <b>Meng Yan</b>  
+  venue: IEEE Transactions on Services Computing (TSC, CCF-A)
+  year: 2025
+  pdf: papers/TSC252.pdf
+  status: Accepted
+
 - title: "Subsequence heterogeneity contrastive learning for time series anomaly detection"
   authors: Zhibin Zhang, Xiaohong Zhang, Qiang Li, Chun Huang, Tao Yin, <b>Meng Yan</b>  
   venue:  Information Sciences (CCF-B)
