@@ -1,3 +1,10 @@
+- title: "Steer Your Model: Secure Code Generation with Contrastive Decoding"
+  authors: Li Huang, <b>Meng Yan*</b>, Tao Yin, Weifeng Sun, Zhongxin Liu, Hongyu Zhang, David Lo.  
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2025
+  pdf: papers/TSE254.pdf
+  status: Accepted
+
 - title: "M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection"
   authors: Ziliang Wang, Ge Li, Jia Li ♂, Jia Li, <b>Meng Yan</b>, Yingfei Xiong, Zhi Jin.  
   venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
