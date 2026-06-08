@@ -1,5 +1,26 @@
+- title: "Retrieval-Augmented Unit Test Suggestion Generation"
+  authors:  Hongyan Li, Weifeng Sun, <b>Meng Yan*</b>
+  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  year: 2026
+  pdf: papers/TOSEM261.pdf
+  status: Accepted
+
+- title: "Exploring and Improving Knowledge Distillation for Pre-trained Code Models"
+  authors:  Weifeng Sun, Ruifeng Wu, Hongyan Li, Ying Fu, Min Yu, <b>Meng Yan*</b>
+  venue:  Empirical Software Engineering (EMSE, CCF-B)
+  year: 2026
+  pdf: papers/EMSE261.pdf
+  status: Accepted
+
+- title: "Cost-Effective Adversarial Attacks Against Code LLM with Model Attention"
+  authors: Weifeng Sun, Naiqi Huang, <b>Meng Yan*</b>, Li Huang, Zhongxin Liu, Xiao Liu, David Lo  
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2026
+  pdf: papers/TSE261.pdf
+  status: Accepted
+
 - title: "Steer Your Model: Secure Code Generation with Contrastive Decoding"
-  authors: Li Huang, <b>Meng Yan*</b>, Tao Yin, Weifeng Sun, Zhongxin Liu, Hongyu Zhang, David Lo.  
+  authors: Li Huang, <b>Meng Yan*</b>, Tao Yin, Weifeng Sun, Zhongxin Liu, Hongyu Zhang, David Lo 
   venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
   year: 2025
   pdf: papers/TSE254.pdf
