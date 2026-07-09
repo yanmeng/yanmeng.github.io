@@ -1,4 +1,32 @@
+- title: "Towards More Realistic Assertion Generation under Mixed-Assertion Scenario"
+  authors: Hongyan Li, Kunpeng E, Weifeng Sun, Quanjun Zhang, <b>Meng Yan*</b>
+  venue: The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, CCF-A), Full paper
+  year: 2026
+  status: Accepted
+  pdf: papers/ISSTA261.pdf
+
+- title: "MultiCodeAttack: Iterative Jailbreak Attacking on LLMs with Multi-Code Prompt Injection"
+  authors: Weifeng Sun, <b>Meng Yan*</b>, Zhou Yang, Yuchen Chen, Sun Song, David Lo
+  venue: The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, CCF-A), Findings
+  year: 2026
+  status: Accepted
+  pdf: papers/ACL262.pdf
+
+- title: "DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation"
+  authors: Li Huang, Zhongxin Liu, Yifan Wu, Tao Yin, Dong Li, Jichao Bi, Nankun Mu, Hongyu Zhang, <b>Meng Yan</b>
+  venue: The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, CCF-A), Full paper
+  year: 2026
+  status: Accepted
+  pdf: papers/ACL261.pdf
+
 - title: "ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection"
+  authors: Tao Yin, Xiaohong Zhang, Shaochen Fu, Zhibin Zhang, Li Huang, Yiyuan Yang, Kaixiang Yang, <b>Meng Yan*</b>
+  venue: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026, CCF-A), Full paper
+  year: 2026
+  status: Accepted
+  pdf: papers/AAAI261.pdf
+
+- title: "Intention Chain-of-Thought Prompting with Dynamic Routing for Code Generation"
   authors: Tao Yin, Xiaohong Zhang, Shaochen Fu, Zhibin Zhang, Li Huang, Yiyuan Yang, Kaixiang Yang, <b>Meng Yan*</b>
   venue: The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A), Full paper
   year: 2025
